@@ -14,7 +14,7 @@ Para compilar e simular o projeto, siga estas etapas:
 2. Baixe os arquivos do processador multiciclo MyRISC disponíveis neste repositório.
 3. No adaPlayground, faça o upload dos arquivos `.vhd` listados abaixo.
 4. Configure os sinais de entrada e saída para simulação.
-5. Execute a simulação utilizando o arquivo `exemplo1_sala.out` e observe os resultados.
+5. Execute a simulação utilizando o arquivo `BEQtest.out` e observe os resultados.
 
 ### Estrutura do Projeto
 
