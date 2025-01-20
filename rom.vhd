@@ -33,7 +33,7 @@ architecture behavior of rom is
 begin
   InitMem: process
     use STD.TEXTIO.all;
-    file f: TEXT open READ_MODE is "exemplo1_sala.out";
+    file f: TEXT open READ_MODE is "BEQtest.out";
     variable l: LINE;
     variable value: std_logic_vector(DATA_WIDTH-1 downto 0);
     variable i: integer := 0;
