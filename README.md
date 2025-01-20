@@ -60,7 +60,7 @@ A imagem abaixo representa aos estados possiveis no processador multiciclo - MyR
 
 ## Simulação
 
-A simulação abaixo foi feito com o arquivo "BEQtest.out" na plataforma EDA Playground e ele representa o WaveForm do teste do BEQ no processador Monociclo - MyRISC
+A simulação abaixo foi feito com o arquivo "BEQtest.out" na plataforma EDA Playground e ele representa o WaveForm do teste do BEQ no processador Multiciclo- MyRISC
 ![image](https://github.com/user-attachments/assets/1cb0a84d-be52-4037-82fe-c40ac09eab0e)
 
 ## Licença
