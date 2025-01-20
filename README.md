@@ -10,7 +10,7 @@ O processador MyRISC foi projetado para ser simples e funcional, implementando u
 
 Para compilar e simular o projeto, siga estas etapas:
 
-1. Acesse o site [adaPlayground](https://www.adaplayground.com/).
+1. Acesse o site [EDA Playground](https://edaplayground.com/home).
 2. Baixe os arquivos do processador multiciclo MyRISC disponíveis neste repositório.
 3. No adaPlayground, faça o upload dos arquivos `.vhd` listados abaixo.
 4. Configure os sinais de entrada e saída para simulação.
